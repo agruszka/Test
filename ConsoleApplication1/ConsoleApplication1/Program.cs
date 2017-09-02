@@ -10,6 +10,11 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("szef");
+            Console.WriteLine("pracownik");
+
+
+
 
             return 1 + 1;
         }
