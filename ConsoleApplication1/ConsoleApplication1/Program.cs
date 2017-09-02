@@ -10,7 +10,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("szef");
+            Console.WriteLine("szef zmienil na branchu");
             Console.WriteLine("pracownik");
 
 
